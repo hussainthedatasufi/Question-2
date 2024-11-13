@@ -1,0 +1,174 @@
+{
+    "jokes": [
+        {
+            "category": "Dark",
+            "type": "twopart",
+            "setup": "What do you call a kid with no arms and an eyepatch?",
+            "delivery": "Names.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 119,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "twopart",
+            "setup": "Muslim women are horrible competitors.",
+            "delivery": "No matter what they do, they always get beat.",
+            "flags": {
+                "nsfw": false,
+                "religious": true,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 113,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "twopart",
+            "setup": "Why do German showers have 11 holes?",
+            "delivery": "Because Jews only have 10 fingers.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": true,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 108,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "twopart",
+            "setup": "What is the difference between an oral thermometer and a rectal thermometer?",
+            "delivery": "The taste.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 175,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "What's the best thing about Switzerland?",
+            "delivery": "I don't know, but the flag is a big plus.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "racist": false,
+                "sexist": false,
+                "political": false,
+                "explicit": false
+            },
+            "id": 194,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "A grocery store cashier asked if I would like my milk in a bag.",
+            "delivery": "I told her \"No, thanks. The carton works fine\".",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 171,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "twopart",
+            "setup": "What's the difference between Jesus and a hooker?",
+            "delivery": "The look on their face when you are nailing them.",
+            "flags": {
+                "nsfw": false,
+                "religious": true,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "safe": false,
+            "id": 261,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "I asked my wife if I was the only one she's been with.",
+            "delivery": "She said, \"Yes, the others were at least sevens or eights.\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 58,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Misc",
+            "type": "twopart",
+            "setup": "Mom asked me where I'm taking her to go out to eat for mother's day.",
+            "delivery": "I told her, \"We already have food in the house\".",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 88,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "What's grey and comes in pints?",
+            "delivery": "An elephant.",
+            "flags": {
+                "nsfw": true,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": true
+            },
+            "id": 216,
+            "safe": false,
+            "lang": "en"
+        }
+    ]
+}
